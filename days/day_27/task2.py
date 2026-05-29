@@ -1,4 +1,5 @@
 settings = {
     "db_host": "localhost",
-    "debug": True
+    "debug": False,
+    "port": 8080
 }
