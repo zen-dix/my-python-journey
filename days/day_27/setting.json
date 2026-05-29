@@ -1,0 +1,5 @@
+{
+    "db_host": "localhost",
+    "debug": false,
+    "port": 8080
+}
